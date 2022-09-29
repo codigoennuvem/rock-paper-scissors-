@@ -2,4 +2,6 @@
 
 # Pedra Papel Tesoura
 
-**You can check it right here:** https://iamdulce.github.io/rock-paper-scissors-/
+**você pode ver o resultado aqui:** https://iamdulce.github.io/rock-paper-scissors-/
+
+Mas edite este READ-ME,  e coloque aqui a sua página disponibilizada.
